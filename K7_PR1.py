@@ -1,4 +1,4 @@
- import tkinter as tk
+import tkinter as tk
 from tkinter import ttk, messagebox, scrolledtext
 import time
 import random
